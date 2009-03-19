@@ -72,7 +72,7 @@ WINE_LOADER *find_object(char *avs_loader, char *avs_script,
         res->input_info.nb_frames == input_info->nb_frames &&
         res->input_info.orgFrame == input_info->orgFrame)
     {
-      printf("find_object : find %s %s\n",
+      DEBUG_PRINTF("find_object : find %s %s\n",
              (char*)res->_param.avs_loader,
              (char*)res->_param.avs_script);
       break;
