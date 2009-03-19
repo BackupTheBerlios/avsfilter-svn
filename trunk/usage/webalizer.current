@@ -1,0 +1,629 @@
+# Webalizer V2.01-10 Incremental Data - 03/15/2009 22:42:30
+2009 3 15 22 42 30
+1367 1151 78 46 22 60 7792420 212 103 1
+7 3 173 1 15
+27 21 85364 5 5 3
+2 1 4010 1 1 1
+24 21 83175 3 3 1
+30 27 239612 6 7 5
+65 31 224184 4 10 4
+0 0 0 0 0 0
+40 36 186170 4 5 4
+94 84 569736 4 13 3
+41 36 443354 3 7 3
+71 63 496977 6 12 5
+16 11 221685 2 6 2
+84 76 250954 6 9 6
+518 447 3416850 31 74 29
+289 247 1391266 18 42 24
+66 50 179083 7 18 13
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+69 46 180133 5
+37 34 428870 7
+28 22 96850 8
+59 55 305351 7
+2 2 0 2
+44 37 183422 7
+55 49 384835 9
+6 4 35020 2
+33 28 206192 7
+76 67 524643 12
+34 16 146161 11
+7 5 98733 1
+4 1 2123 1
+55 48 577073 12
+37 32 111933 5
+240 210 1129311 22
+245 214 1544620 42
+19 15 51008 2
+46 39 152041 6
+21 15 57938 4
+16 14 46961 1
+69 49 435008 11
+45 39 149782 10
+120 110 944412 18
+0
+0
+0
+1151
+0
+0
+0
+0
+0
+13
+0
+3
+0
+0
+56
+0
+0
+0
+4
+0
+0
+135
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+# -urls- 
+/usage/ctry_usage_200903.png
+0 3 0 6789 0 0
+/
+0 113 0 516831 80 20
+/pic/screenshot5.png
+0 7 0 160139 0 0
+/pic/requirements.png
+0 60 0 136059 0 0
+/usage/ctry_usage_200902.png
+0 1 1853321060 2286 0 0
+/pic/screenshot1_small.png
+0 13 0 238836 0 0
+/pic/back.png
+0 42 0 44499 0 0
+/pic/avsfilter_logo.png
+0 61 0 368126 0 0
+/usage.html
+0 8 0 23112 1 0
+/src/filter.src.05.03.2009.tar.bz2
+0 12 0 177876 0 0
+/usage/usage.png
+0 1 0 2658 0 0
+/pic/screenshots.png
+0 62 0 128266 0 0
+/pic/screenshot2.png
+0 9 1752395365 176283 0 0
+/usage/usage_200902.html
+0 1 26 107890 0 1
+/usage/daily_usage_200903.png
+0 3 0 8354 0 0
+/pic/screenshot1.png
+0 9 0 809577 0 0
+/pic/contact.png
+0 62 0 96229 0 0
+/pic/schemes2.png
+0 24 0 109656 0 0
+/pic/download.png
+0 60 0 103512 0 0
+/usage/daily_usage_200902.png
+0 1 1734439797 3689 0 0
+/usage/usage_200903.html
+0 3 0 220246 0 2
+/pic/advantages.png
+0 60 0 239514 0 0
+/pic/disadvantages.png
+0 60 0 149568 0 0
+/src/avsload_pipe_binary.tar.bz2
+0 15 0 661436 0 0
+/src/filter.src.04.03.2009.tar.bz2
+0 2 0 29744 0 0
+/screenshots.html
+0 15 0 18000 1 0
+/pic/how_to_compile.png
+0 60 0 145236 0 0
+/pic/screenshot2_small.png
+0 13 0 55016 0 0
+/pic/faq.png
+0 60 0 275253 0 0
+/usage/hourly_usage_200903.png
+0 3 0 5757 0 0
+/src/empty.avs
+0 5 808334384 225 0 0
+/faq.html
+0 4 0 11884 1 2
+/usage/hourly_usage_200902.png
+0 1 775500850 2178 0 0
+/adv_disadv.html
+0 24 0 58776 5 1
+/pic/forum.png
+0 62 0 70977 0 0
+/pic/multiple_sources.png
+0 24 0 220872 0 0
+/req_compile_download.html
+0 33 0 260964 11 6
+/pic/about.png
+0 60 0 325014 0 0
+/pic/screenshot9.png
+0 7 1735290926 755797 0 0
+/pic/usage.png
+0 60 0 79002 0 0
+/pic/how_to_work.png
+0 60 0 127680 0 0
+/pic/screenshot8.png
+0 7 0 83944 0 0
+/pic/screenshot9_small.png
+0 13 0 308750 0 0
+/pic/screenshot7.png
+0 7 0 125230 0 0
+/usage/
+0 3 0 19673 0 0
+/pic/screenshot6.png
+0 7 0 167482 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.249.72.116
+0 4 2 10031 1 1236404485
+/req_compile_download.html
+88.172.177.67
+0 40 32 203999 4 1236963097
+/req_compile_download.html
+121.152.174.97
+0 20 18 69758 1 1236968402
+/req_compile_download.html
+82.55.142.234
+0 16 14 46997 1 1236962219
+/
+91.45.74.115
+0 17 15 48161 1 1236991164
+/screenshots.html
+66.249.72.131
+0 3 1 7872 2 1237033982
+/
+75.104.141.104
+0 4 2 5668 1 1236788551
+/adv_disadv.html
+89.208.147.152
+0 1 0 1039 0 0
+-
+76.109.229.146
+0 18 16 50551 1 1237047370
+/adv_disadv.html
+123.48.18.181
+0 3 2 13315 1 1237017129
+/
+92.76.178.76
+0 17 16 50002 1 1236957192
+/
+217.70.194.50
+0 23 22 188222 1 1236960564
+/screenshots.html
+91.66.25.6
+0 32 28 94418 2 1237144367
+/
+84.167.122.95
+0 3 3 14913 0 0
+-
+82.41.228.53
+0 14 14 44883 1 1236983048
+/
+124.155.112.89
+0 11 10 12664 10 1237156950
+/
+72.219.184.249
+0 2 0 2078 0 0
+-
+70.178.136.153
+0 18 16 50551 1 1237087803
+/adv_disadv.html
+130.234.204.236
+0 39 38 470309 1 1236950553
+/req_compile_download.html
+121.157.194.141
+0 28 25 246304 1 1237072341
+/screenshots.html
+208.36.144.10
+0 4 0 0 0 0
+-
+91.210.87.15
+0 16 14 46961 1 1237148312
+/
+74.240.240.197
+0 29 28 394151 1 1236988323
+/screenshots.html
+192.42.125.177
+0 16 14 47071 1 1236961000
+/
+89.12.47.143
+0 24 22 313167 1 1236962944
+/screenshots.html
+59.147.83.201
+0 1 0 1076 0 0
+-
+59.106.12.160
+0 8 7 41634 1 1236961699
+/
+67.202.59.141
+0 2 1 8947 1 1235883659
+/req_compile_download.html
+92.100.47.46
+0 15 2 11588 1 1236289203
+/
+72.30.78.241
+0 2 0 2310 1 1236558772
+-
+193.179.208.9
+0 37 18 90573 1 1236904082
+/req_compile_download.html
+66.249.73.73
+0 3 2 11665 2 1236209095
+/
+82.67.248.50
+0 28 26 337446 1 1236961170
+/screenshots.html
+67.36.24.109
+0 23 21 205196 1 1236924080
+/screenshots.html
+118.16.14.116
+0 71 66 202413 1 1237043291
+/
+84.106.138.64
+0 14 14 44883 1 1237065564
+/
+65.55.230.164
+0 4 2 5727 2 1237094425
+/screenshots.html
+198.247.172.14
+0 1 1 5794 1 1237025286
+/
+59.106.108.66
+0 50 48 165697 1 1236961565
+/
+94.100.195.5
+0 33 31 264073 2 1236676323
+/
+88.44.229.42
+0 17 16 49530 1 1236875534
+/adv_disadv.html
+91.78.122.192
+0 43 28 435799 1 1237044867
+/usage.html
+89.180.60.110
+0 33 32 415995 1 1236561838
+/screenshots.html
+71.99.128.113
+0 20 19 70411 1 1235890024
+/req_compile_download.html
+83.98.236.197
+0 24 22 117446 1 1236936722
+/req_compile_download.html
+80.70.233.14
+0 70 44 590918 6 1236942847
+/req_compile_download.html
+88.7.97.177
+0 17 16 49631 1 1236958323
+/adv_disadv.html
+195.208.220.1
+0 38 32 287784 1 1236507527
+/
+129.89.129.122
+0 16 14 46961 1 1236834694
+/
+84.163.6.144
+0 27 27 83972 1 1236468998
+/
+79.142.196.3
+0 22 21 115835 1 1237044687
+/req_compile_download.html
+65.55.208.113
+0 4 2 17894 2 1237079387
+/req_compile_download.html
+65.55.208.114
+0 2 1 6352 1 1236202381
+/
+65.55.208.119
+0 4 2 7498 2 1236980469
+/adv_disadv.html
+65.55.208.120
+0 2 1 3928 1 1235872541
+/usage.html
+59.127.168.198
+0 17 16 49673 1 1237040477
+/adv_disadv.html
+24.16.70.195
+0 18 16 50551 1 1236970205
+/adv_disadv.html
+151.203.56.88
+0 15 14 45922 1 1236877538
+/
+67.240.46.127
+0 28 26 210774 1 1236492061
+/usage.html
+74.125.16.1
+0 1 1 7908 1 1236678756
+/req_compile_download.html
+123.192.2.158
+0 5 4 23860 1 1237011067
+/req_compile_download.html
+220.51.60.10
+0 22 20 75276 1 1236913094
+/adv_disadv.html
+92.226.128.24
+0 21 21 185499 1 1236137777
+/screenshots.html
+72.30.161.248
+0 2 1 6352 1 1236176427
+/
+82.230.68.34
+0 28 26 197416 1 1236729202
+/screenshots.html
+74.6.22.163
+0 4 3 20535 2 1236999349
+/req_compile_download.html
+75.91.187.58
+0 18 16 50551 1 1236986650
+/adv_disadv.html
+82.76.84.13
+0 28 26 337296 1 1236980609
+/screenshots.html
+61.247.222.55
+0 1 0 0 0 0
+-
+92.100.36.45
+0 20 18 68262 1 1236120934
+/req_compile_download.html
+84.163.44.133
+0 16 14 46961 1 1236522104
+/
+119.41.170.61
+0 14 14 44883 1 1237043040
+/
+59.106.108.117
+0 16 8 46352 8 1237155816
+/
+77.180.20.5
+0 20 18 69301 1 1236224845
+/req_compile_download.html
+85.41.152.116
+0 15 14 45940 1 1237022228
+/
+213.232.194.205
+0 6 4 24899 1 1237056706
+/req_compile_download.html
+86.66.38.186
+0 18 16 50701 1 1236875166
+/adv_disadv.html
+86.217.77.242
+0 1 0 1447 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+91.66.25.6
+0 16 14 47209 1 1237144367
+/
+124.155.112.89
+0 4 4 0 4 1237156950
+/
+70.178.136.153
+0 18 16 50551 1 1237087803
+/adv_disadv.html
+91.210.87.15
+0 16 14 46961 1 1237148312
+/
+65.55.230.164
+0 2 1 2239 1 1237094425
+/screenshots.html
+65.55.208.113
+0 2 1 8947 1 1237079387
+/req_compile_download.html
+59.106.108.117
+0 8 4 23176 4 1237155816
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 331
+http://forum.ixbt.com/topic.cgi
+0 1
+http://avsfilter.berlios.de/index.html
+0 694
+http://www.google.com/search
+0 1
+http://www.google.ru/search
+0 1
+http://avsfilter.berlios.de/screenshots.html
+0 63
+http://developer.berlios.de/projects/avsfilter/
+0 1
+http://209.85.129.132/search
+0 3
+http://avsfilter.berlios.de/adv_disadv.html
+0 21
+http://niiyan.net/
+0 10
+http://forum.doom9.org/showthread.php
+0 23
+http://avsfilter.berlios.de/req_compile_download.html
+0 74
+http://avsfilter.berlios.de/
+0 74
+http://avsfilter.berlios.de/usage.html
+0 31
+http://forumbgz.ru/showflat.php
+0 1
+http://d.hatena.ne.jp/avisynth/
+0 2
+http://forum.videohelp.com/topic365358.html
+0 6
+http://avsfilter.berlios.de/usage/usage_200902.html
+0 3
+http://avsfilter.berlios.de/usage/
+0 5
+http://www.google.fr/search
+0 1
+http://www.avisynth.info/
+0 12
+http://avsfilter.berlios.de/usage/usage_200903.html
+0 9
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.7) G
+0 23
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.7) Gecko/2
+0 67
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.6) Geck
+0 29
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.7) G
+0 17
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.0.7) Geck
+0 15
+Opera/10.00 (Windows NT 5.1; U; en) Presto/2.2.0
+0 17
+Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.0.7) G
+0 17
+Mozilla/5.0 (X11; U; Linux x86_64; ru; rv:1.9.0.6) Gecko/2009
+0 6
+Mediapartners-Google
+0 2
+Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.
+0 5
+Mozilla/5.0 (compatible; yahoo! Slurp; http://help.yahoo.com/
+0 1
+HatenaScreenshot/1.0 (checker)
+0 2
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.6) Gecko/200
+0 74
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.4pre) Gecko/
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.7) Geck
+0 28
+Mozilla/5.0 (Windows; U; Windows NT 6.0; de; rv:1.9.0.7) Geck
+0 32
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de-DE; rv:1.8.1.20) 
+0 3
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.12) Gecko/20
+0 35
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1b3pre
+0 21
+Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLC
+0 15
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1
+0 74
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2
+0 4
+Mozilla/5.0 (compatible; Konqueror/4.2; Linux 2.6.28-2.slh.2-
+0 39
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 39
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; Mozil
+0 14
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.6) G
+0 41
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.5) Geck
+0 18
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.3) Gecko/2
+0 34
+Opera/9.52 (X11; Linux x86_64; U; en)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.7) Geck
+0 16
+Opera/9.50 (Windows NT 5.1; U)
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.0.7) Gecko/2009
+0 43
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.19) Gecko/
+0 33
+Mozilla/5.0 (Windows; U; Windows NT 6.0; it; rv:1.9.0.7) Geck
+0 16
+HatenaScreenshot  (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ko; rv:1.9.0.7) Geck
+0 20
+Yeti/1.0 (NHN Corp.; http://help.naver.com/robots/)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 8
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9
+0 16
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.
+0 28
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozil
+0 43
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.9.0.1) 
+0 4
+Opera/10.00 (Windows NT 5.1; U; ru) Presto/2.2.0
+0 21
+msnbot/1.1 (+http://search.msn.com/msnbot.htm)
+0 12
+ia_archiver (+http://www.alexa.com/site/help/webmasters; craw
+0 2
+Comaneci_bot/1.2 (+http://help.i-know.jp/?crawler)
+0 19
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.0.7) Geck
+0 23
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/
+0 3
+Opera/9.64 (Windows NT 5.1; U; de) Presto/2.1.1
+0 40
+Mozilla/5.0 (X11; U; Linux x86_64; nl; rv:1.9.0.7) Gecko/2009
+0 24
+GreenBrowser
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.6) Geck
+0 28
+Mozilla/5.0 (X11; U; Linux i686; ru-RU; rv:1.8.1.7) Gecko/200
+0 25
+Mozilla/5.0 (en-US)
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8pre) Gecko/
+0 37
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1b1) G
+0 14
+Hatena Antenna/0.5 (http://a.hatena.ne.jp/help)
+0 22
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) G
+0 180
+# End Of Table - agents
+# -search strings- 
+avsfilter
+1
+# End Of Table - search strings
+# -usernames- 
+fahr
+0 20 20 379520 3 1236937433
+# End Of Table - usernames

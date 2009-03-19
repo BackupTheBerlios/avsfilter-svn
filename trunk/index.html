@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+  <title></title>
+  <meta name="GENERATOR" content="Quanta Plus">
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+</head>
+<body>
+<a href="http://developer.berlios.de">
+<img src="http://developer.berlios.de/bslogo.php?group_id=10149" width="124" height="32" border="0" alt="BerliOS Logo" /></a>
+<table>
+  <tbody>
+    <tr>
+      <td><div align="center"><IMG src="pic/avsfilter_logo.png" alt="AvsFilter" width="264" height="82" border="0"></div></td>
+    </tr>
+    <tr>
+      <td>
+<p>External video filter for avidemux2. Is used for load avisynth script as native avidemux2 video filter. Filter supports external binary Windows dll in avisynth script (thanks wine), several AvsFilter instance with different avisynth script and many other features.</p>
+<table>
+  <tbody>
+    <td>
+      <td>
+<table>
+  <tbody>
+    <tr>
+      <td><A href="adv_disadv.html#about"><IMG src="pic/about.png" alt="About" width="122" height="55" align="left" border="0"></A></td>
+    </tr>
+    <tr>
+      <td><A href="adv_disadv.html#advantages" name="advantages"><IMG src="pic/advantages.png" alt="Advantages" width="218" height="55" align="left" border="0"></A></td>
+    </tr>
+    <tr>
+      <td><A href="adv_disadv.html#disadvantages" name="disadvantages"><IMG src="pic/disadvantages.png" alt="Disadvantages" width="270" height="55" align="left" border="0"></A></td>
+    </tr>
+    <tr>
+      <td><A href="req_compile_download.html#how_to_work" name="how_to_work"><IMG src="pic/how_to_work.png" alt="How to work" width="239" height="55" align="left" border="0"></A></td>
+    </tr>
+    <tr>
+      <td><A href="req_compile_download.html#requirements" name="requirements"><IMG src="pic/requirements.png" alt="Requirements" width="264" height="55" align="left" border="0"></A></td>
+    </tr>
+    <tr>
+      <td><A href="req_compile_download.html#compile_section" name="compile_section"><IMG src="pic/how_to_compile.png" alt="How to compile" width="290" height="55" align="left" border="0"></A></td>
+    </tr>
+    <tr>
+      <td><A href="req_compile_download.html#download_section" name="download_section"><IMG src="pic/download.png" alt="Download" width="189" height="55" align="left" border="0"></A></td>
+    </tr>
+    <tr>
+      <td><A href="usage.html"><IMG src="pic/usage.png" alt="Usage" width="123" height="55" align="left" border="0"></A></td>
+    </tr>
+    <tr>
+      <td><A href="screenshots.html"><IMG src="pic/screenshots.png" alt="Screenshots" width="232" height="55" align="left" border="0"></A></td>
+      </tr>
+      <tr>
+      <td><A href="http://forum.doom9.org/showthread.php?p=1219606"><IMG src="pic/forum.png" alt="Forum" width="130" height="55" align="left" border="0"></A></td>
+      </tr>
+      <tr>
+      <td><A href="faq.html"><IMG src="pic/faq.png" alt="FAQ" width="87" height="55" align="left" border="0"></A></td>
+      </tr>
+      <tr>
+      <td><a href="mailto:fahr@inbox.ru?subject=avsfilter"><IMG src="pic/contact.png" alt="Contact" width="153" height="55" align="top" border="0"></a></td>
+      </tr>
+  </tbody>
+</table>
+
+</td>
+      <td><strong>05 March 2009</strong>
+		      <p>Stupid (but serious) bug was fixed. These bug inserted by 04 March of 2009. Under processing video with complex binary avisynth filter (like <strong>fft3dfilter</strong>), several frames need to render one frame. This bug (before it fixed) breaks normal frame sequence. Version 0.4a is out. Update <A href="src/filter.src.05.03.2009.tar.bz2">linux sources</A> and <A href="src/avsload_pipe_binary.tar.bz2">wine binaries</A>.</p>
+         <strong>04 March 2009</strong>
+		      <p>Fixed serious bug in the time of encode frames span(A - B in avidemux2). At the moment of processing frame with number > (B - A), frame replace by frame 0. All following frames also replace by frame 0. This is no happens, if you encode whole input video.</p>
+</td>
+
+    </tr>
+  </tbody>
+</table>
+
+</td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<strong>03 Feb. 2009</strong>
+		      <p>New 0.3a version is out:
+<ul><li>Fixed serious bug with avisynth filters, who change fps (ChangeFPS() in script etc.) </li>
+<li>In this version, avsfilter checked timestamp of script. If timestamp of script change, avsfilter reload fresh script to avisynth. For use this feature, you can remove avsfilter from videofilter list, change script and reload avsfilter again to videofilter list with the same script name. No need to rename script and reload them with changed filename.</li>
+<li>Add forgotten file patch.prefs.in to linux sources.</li>
+<li>Update sources/wine binaries.</li></ul></p>
+<strong>4 Dec. 2008</strong>
+		      <p>Update <A href="faq.html">faq</A> page.</p>                      
+<strong>2 Dec. 2008</strong>
+		      <p>Workless avisynth script fault fix. Create first FAQ question/answer ;-) Update Linux/wine sources and wine binary.</p>
+		      <strong>10 Nov. 2008</strong>
+		      <p>Check new version of wine. Combination of wine 1.1.8/avisynth 2.57/avidemux 2.4.1 work fine. <br></p>		      
+		      <strong>4 Nov. 2008</strong>
+		      <p>Add compile instruction for wine app/dll, multiple sources diagram and description<br></p>                     
+		      <strong>31 Okt. 2008</strong>
+		      <p>Add usage tutorial and screenshots. Add contact button. <br></p>
+                      <strong>30 Okt. 2008</strong>
+                      <p>Change some webpages, add contact button to main page, new screeshots. To do : create link to berlios forum.<br></p>
+                      <strong>26 Okt. 2008</strong><p>
+                      Multiple instance filters are supported. Download section is added.
+                      </p>
+</body>
+</html>
