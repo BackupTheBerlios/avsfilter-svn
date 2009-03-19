@@ -1,5 +1,0 @@
-LIBRARY	pipe_source
-
-EXPORTS
-AvisynthPluginInit2 @1
-SetPipeName @2
