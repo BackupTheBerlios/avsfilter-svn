@@ -1,0 +1,4 @@
+filters.avsfilter.avs_script,		FILENAME,	""
+filters.avsfilter.avs_loader,		FILENAME,	""
+filters.avsfilter.pipe_timeout,         UINT,   10,     1,       30
+filters.avsfilter.debug_msg,            UINT,   1,      0,       1
