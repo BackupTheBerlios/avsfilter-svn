@@ -1,0 +1,6 @@
+# !/bin/bash
+
+cd dll
+make
+cd  ..
+make
